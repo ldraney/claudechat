@@ -1,0 +1,12 @@
+{
+  "name": "claude-response-viewer",
+  "version": "1.0.0",
+  "description": "View Claude Code responses in real-time in your browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
